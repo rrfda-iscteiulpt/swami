@@ -1,0 +1,17 @@
+section.registration{
+    position: center;
+    padding: 100px 0;
+    background-image: url("../img/bg-lisbon.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+
+section.registration .registration.content{
+    position: center;
+    z-index: 1;
+}
+
+section.registration .col-md-4{
+    background-color: rgba(245, 245, 245, 0.6);
+}
